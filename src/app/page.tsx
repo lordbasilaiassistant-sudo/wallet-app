@@ -75,7 +75,7 @@ export default function Home() {
               <FeatureCard 
                 icon="⚡" 
                 title="AI-Powered" 
-                description="8 autonomous agents managing the network 24/7"
+                description="19+ autonomous agents managing the network 24/7"
               />
               <FeatureCard 
                 icon="🔗" 
@@ -160,7 +160,7 @@ export default function Home() {
             <div>
               <h4 className="text-purple-400 font-semibold mb-3">Network</h4>
               <div className="space-y-2 text-sm text-gray-500">
-                <p>Chain ID: 31337</p>
+                <p>Chain ID: 77777</p>
                 <p>Bridge: Base ↔ THRYX</p>
                 <p className="text-purple-400">Alpha v0.1</p>
               </div>
